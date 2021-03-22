@@ -1,5 +1,7 @@
 body {background-color:black;font:arial;color:white;}
-h1{color:grey; font:verdana;}
+h1{
+    color:grey;
+   font:verdana;}
 .maindiv { 
     background-color:white; 
     color:black; 

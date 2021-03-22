@@ -1,6 +1,6 @@
 function compute() /*this function gets input data, validates and provides amount*/
 {
-    //get data from user
+    //get data from user-amount, rate and time
     var principal = document.getElementById("principal").value;
     var rate = document.getElementById("rate").value;
     var years = document.getElementById("years").value;
