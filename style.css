@@ -8,6 +8,15 @@ h1{color:grey; font:verdana;}
     border-radius:25px;
     margin:auto;
     }
-
-}
+ .smalldiv {
+        margin-bottom: 10px;
+      }
+      label {
+        display: inline-block;
+        width: 110px;
+        color: #777777;
+      }
+      input {
+        padding: 5px 10px;
+      }
 
